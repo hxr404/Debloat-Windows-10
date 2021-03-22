@@ -1,3 +1,6 @@
+# About this Fork
+I made some changes and customized it to match my preferences. This might not be the perfect configuration for you. Try the original Version [W4RH4WK/Debloat-Windows-10](https://github.com/W4RH4WK/Debloat-Windows-10) instead
+
 # Debloat Windows 10
 
 This project collects PowerShell scripts which help to *debloat* Windows 10,
